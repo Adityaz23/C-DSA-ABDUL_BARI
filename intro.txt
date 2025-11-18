@@ -1,0 +1,12 @@
+This is the just the introduction from the abdul buri udemy DSA course ->
+Q. What is program?
+Ans. A program is a set of instruction which perform operation on data.
+The way you organise the data in the main memory is known as data strucutre.
+
+Topics like arrays, matrices and linked list are known as physical data strucutres. How the data is arranfe in the memory.
+Topics like Stack, Queues, Trees, Graph and Hashing are known as logical data structure. This define how the data is utilised.
+Topics like recusrsion, sorting
+
+Q. Why study the DSA ?
+Ans. You have to use data structure.
+
