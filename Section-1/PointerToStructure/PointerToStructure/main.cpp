@@ -17,7 +17,7 @@ int main(){
     Rectangle r={12,24};
     r.len = 321;
     Rectangle *p=&r;
-    p->len=23; // this is the syntax for accessing the strucuture using pointer.
+    p->len=23; // this is the syntax for accessing the structure using pointer.
     p->bre=25;
     cout << &r << " " << p << endl; // this will just give us the syntax.
     cout << new int(sizeof(Rectangle)) << endl; // this will give us the heap memory.

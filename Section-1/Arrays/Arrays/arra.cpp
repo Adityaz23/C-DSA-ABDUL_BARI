@@ -17,3 +17,14 @@
 //}
 //Now, this program will be stored in the main memory and the main memory is divided into three sections -> Code Section, Stack Section and Heap Section. So, when you declare the value of the array or decalre the array it is stored in the stack
 //For loop is used to print all the elements of the array.
+#include<iostream>
+using namespace std;
+void fun(int A[], int n){
+    int i;
+    for(i=0;i<n;i++)
+        cout << A[i] << endl;
+}
+int main(){
+    int A[5] = {1,2,3,4,5};
+    fun(A,5);
+}

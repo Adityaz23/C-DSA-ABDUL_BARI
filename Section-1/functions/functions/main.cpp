@@ -8,10 +8,7 @@
 // In this video we are going to learn about the functions for that we will
 /*
     1. What are functions?
-    2. Parameter Passing ->
-        a. Pass by value.
-        b. Pass by address.
-        c. Pass by reference.
+   
  
     Q. What are functions?
     Ans. Functions are the piece of code which performs the specific tasks. Functions is a group of instruction. So grouping instructions is a function. Functions are called as modules or procedures.
